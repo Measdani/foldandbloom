@@ -16,3 +16,6 @@ footer{display:flex;align-items:center;justify-content:space-between;padding:32p
 
 /* Center-crop the portrait source so the complete circular logo fills the frame. */
 .image-window img{width:100%;height:100%;object-fit:cover;object-position:center;transform:none}
+
+/* Keep the closing call-to-action calm and focused. */
+.contact-section{background:linear-gradient(135deg,#fffafd 0%,#f4eaf8 100%)}
